@@ -1,2 +1,9 @@
 Hi yasmin welcome to git&github learining session 
 
+echo "# Table" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/yasmin224/Table.git
+git push -u origin main
